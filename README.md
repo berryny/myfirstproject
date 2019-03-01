@@ -17,6 +17,26 @@ You can use the [editor on GitHub](https://github.com/berryny/myfirstproject/edi
 - [MAMP (Windows) Documentation](https://documentation.mamp.info/en/MAMP-Windows/)
 - [GitHubPages](https://pages.github.com): Websites for you and your projects.
 
+# Sameple Code
+HTML:
+```
+<p>Defines a paragraph</p>
+<img src="myfirstproject/img/box-model.png" alt="Box Model" />
+```
+CSS:
+```
+p {
+	color: #D97904;
+	border: 2px solid green;
+	margin: 20px 0 40px 0;
+	padding: 0;
+}
+```
+
+# Formate a README file
+**Basic writing and formatting syntax**
+[Read more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#quoting-code)
+
 ### PROJECT
 Web project presentation at the end class a web project. **April 29 - 30, 2019**
 
