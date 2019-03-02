@@ -126,7 +126,7 @@ Read [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
 
 # Formate a README file
 **Basic writing and formatting syntax**
-[Read more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#quoting-code)
+[Read more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 ### PROJECT
 Web project presentation at the end class a web project. **April 29 - 30, 2019**
