@@ -22,6 +22,13 @@ HTML:
 ```
 <p>Defines a paragraph</p>
 <img src="myfirstproject/img/box-model.png" alt="Box Model" />
+<ul class="style-list">
+	<li>Feet</li>
+	<li>Toes</li>
+	<li>Knees</li>
+	<li>Thights</li>
+	<li>Bones</li>
+</ul>
 ```
 CSS:
 ```
@@ -31,7 +38,29 @@ p {
 	margin: 20px 0 40px 0;
 	padding: 0;
 }
+img {
+	display: block;
+	margin: 5px 10px;
+	width: 100%;
+}
+ul.style-list {
+	display: block;
+	list-style-type: decimal;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 40px;
+}
 ```
+**HTML Element Reference**
+[div](https://www.w3schools.com/tags/tag_div.asp)
+[p](https://www.w3schools.com/tags/tag_p.asp)
+[img](https://www.w3schools.com/tags/tag_img.asp)
+[ul](https://www.w3schools.com/tags/tag_ul.asp)
+
+**CSS Syntax and Selectors**
+Read [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
 
 # Formate a README file
 **Basic writing and formatting syntax**

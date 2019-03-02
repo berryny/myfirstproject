@@ -11,6 +11,7 @@ div {
 h1 {
 	color: #D97904;
 	margin-bottom: 0;
+	text-transform: uppercase;
 }
 h2 {
 	color: #BF4904;
@@ -60,7 +61,18 @@ font-family: 'Dosis', sans-serif;
 	text-decoration: none;
 	color: #DB5134;
 }
-
+.content img {
+	width: 50%;
+}
+.content ul.style-list {
+	display: block;
+	list-style-type: decimal;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 40px;
+}
 .content .back {
 	text-align: center;
 	color: #6F7372;
