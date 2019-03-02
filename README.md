@@ -79,7 +79,7 @@ HTML/CSS (external):
 </html>
 ```
 
-# Sameple Code
+# Sample Code
 HTML:
 ```
 <p>Defines a paragraph</p>
