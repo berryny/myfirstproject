@@ -17,6 +17,68 @@ You can use the [editor on GitHub](https://github.com/berryny/myfirstproject/edi
 - [MAMP (Windows) Documentation](https://documentation.mamp.info/en/MAMP-Windows/)
 - [GitHubPages](https://pages.github.com): Websites for you and your projects.
 
+# Page Templates
+HTML:
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Page Title</title>
+</head>
+<body>
+	<!--Site content goes here-->
+</body>
+</html>
+```
+
+HTML/CSS (internal):
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Page Title</title>
+	<style>
+		body {
+			background-color: #444;
+		}
+		h1 {
+			color: #F2F2F2;
+			margin-bottom: 0;
+		}
+		h2 {
+			color: #BF4904;
+			margin: 0;
+		}
+		p {
+			color: #D97904;
+			border: 2px solid green;
+			margin: 20px 0 40px 0;
+			padding: 0;
+		}
+	</style>
+</head>
+<body>
+	<!--Site content goes here-->
+</body>
+</html>
+```
+HTML/CSS (external):
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Page Title</title>
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<!--Site content goes here-->
+</body>
+</html>
+```
+
 # Sameple Code
 HTML:
 ```
