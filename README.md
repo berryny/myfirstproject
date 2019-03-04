@@ -148,6 +148,7 @@ table#table1 th {
 [img](https://www.w3schools.com/tags/tag_img.asp)
 [ul](https://www.w3schools.com/tags/tag_ul.asp)
 [table](https://www.w3schools.com/html/html_tables.asp)
+[HTML Attributes: style](https://www.w3schools.com/tags/ref_standardattributes.asp)
 
 **CSS Syntax and Selectors**
 Read [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
