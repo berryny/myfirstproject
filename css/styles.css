@@ -78,6 +78,18 @@ font-family: 'Dosis', sans-serif;
 	color: #6F7372;
 	display: block;
 }
+
+table#human {
+	border:1px solid gray; 
+	border-collapse:collapse; 
+	font-size:100%; 
+	margin:0 0 .5em 1em;
+}
+table#human thead th {
+	background:Lightgrey; 
+	text-align:center;
+	text-transform: capitalize;
+}
 /* Style for classname footer */
 .footer {
 	background-color: #444;

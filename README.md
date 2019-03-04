@@ -91,6 +91,24 @@ HTML:
 	<li>Thights</li>
 	<li>Bones</li>
 </ul>
+<table id="table1" style="width:100%">
+	<tr>
+		<th>Resource</th>
+		<th>Description</th> 
+		<th>Link</th>
+	</tr>
+	<tr>
+		<td>w3school</td>
+		<td>HTML Tables</td> 
+		<td>https://www.w3schools.com/html/html_tables.asp</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>HTML Global Attributes: style <br>
+			Specifies an inline CSS style for an element</td> 
+		<td>https://www.w3schools.com/tags/ref_standardattributes.asp</td>
+	</tr>
+</table>
 ```
 CSS:
 ```
@@ -114,12 +132,22 @@ ul.style-list {
 	margin-right: 0;
 	padding-left: 40px;
 }
+table, th, td {
+	border: 1px solid #444;
+	border-collapse: collapse;
+}
+table#table1 th {
+  color: #fff;
+  background-color: #222;
+  text-transform: capitalize;
+}
 ```
 **HTML Element Reference**
 [div](https://www.w3schools.com/tags/tag_div.asp)
 [p](https://www.w3schools.com/tags/tag_p.asp)
 [img](https://www.w3schools.com/tags/tag_img.asp)
 [ul](https://www.w3schools.com/tags/tag_ul.asp)
+[table](https://www.w3schools.com/html/html_tables.asp)
 
 **CSS Syntax and Selectors**
 Read [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
