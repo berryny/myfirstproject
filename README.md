@@ -91,6 +91,12 @@ HTML:
 	<li>Thights</li>
 	<li>Bones</li>
 </ul>
+<ol class="order-list">
+	<li>Hands</li>
+	<li>Fingers</li>
+	<li>Elbows</li>
+	<li>Bones</li>
+</ul>
 <table id="table1" style="width:100%">
 	<tr>
 		<th>Resource</th>
@@ -125,12 +131,21 @@ img {
 }
 ul.style-list {
 	display: block;
-	list-style-type: decimal;
+	list-style-type: square;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	margin-left: 0;
 	margin-right: 0;
 	padding-left: 40px;
+}
+ol.order-list {
+  display: block;
+  list-style-type: decimal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
 }
 table, th, td {
 	border: 1px solid #444;
@@ -147,6 +162,7 @@ table#table1 th {
 [p](https://www.w3schools.com/tags/tag_p.asp)
 [img](https://www.w3schools.com/tags/tag_img.asp)
 [ul](https://www.w3schools.com/tags/tag_ul.asp)
+[ol](https://www.w3schools.com/tags/tag_ol.asp)
 [table](https://www.w3schools.com/html/html_tables.asp)
 [HTML Attributes: style](https://www.w3schools.com/tags/ref_standardattributes.asp)
 
